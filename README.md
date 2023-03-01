@@ -9,5 +9,5 @@
 <img src = "car 3.png" alt = "car view 2" width="300" height= "300"/>
 <img src = "car4.png" alt = "car view 2" width="300" height= "300"/>
 <br/>
-<p> The diagram below uses sn404 chip for the motor driver, and the black sensors are IR sensors. </p>
+<p> The diagram below uses sn754410 TI chip for the motor driver, and the black sensors are IR sensors. </p>
 <img src = "Car Schematic.png" alt = "car view 2" width="750" height= "500"/>
