@@ -11,3 +11,4 @@
 <br/>
 <p> The diagram below uses sn754410 TI chip for the motor driver, and the black sensors are IR sensors. </p>
 <img src = "Car Schematic.png" alt = "car view 2" width="750" height= "500"/>
+<p> The IR sensors can be found here: https://www.amazon.com/OSOYOO-Infrared-Obstacle-Avoidance-Arduino/dp/B01I57HIJ0"
