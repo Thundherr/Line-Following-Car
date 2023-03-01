@@ -6,3 +6,5 @@ Line Following Car
 <br/>
 <img src = "car 3.png" alt = "car view 2" width="300" height= "300"/>
 <img src = "car4.png" alt = "car view 2" width="300" height= "300"/>
+<br/>
+<img src = "Car Schematic.png" alt = "car view 2" width="500" height= "500"/>
